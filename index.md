@@ -1,19 +1,17 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+Hi All, 
 
-There should be whitespace between paragraphs.
+I have 8.5 years of experience as a software developer and fullstack engineer. I am currently pursuing ML and AI program from upgrad . 
+During this time I have worked on some projects as listed below .
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Fraud Detection
 
-# Header 1
+Fraud detection analyses the dataset to train model that can detect future frauds in card transactions .
+Here is the github for the source code and dataset
+(https://github.com/pragyat2611/fraudDetection.git)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ## Header 2
 
 > This is a blockquote following a header.

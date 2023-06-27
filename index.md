@@ -13,7 +13,7 @@ Here is the github for the source code and dataset.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pragyat2611/fraudDetection.git)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](/assets/images/fraud.jpeg)
 
 
 

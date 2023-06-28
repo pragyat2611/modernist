@@ -1,8 +1,4 @@
-
-
-Hi All, 
-
-I have 8.5 years of experience as a software developer and fullstack engineer. I am currently pursuing ML and AI program from upgrad . 
+ 
 During this time I have worked on some projects as listed below .
 
 # Fraud Detection
